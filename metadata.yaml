@@ -1,0 +1,50 @@
+_repo: The-Bishop-s-purse_73472
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Wrenn, Charles L. (Charles Lewis)
+    birthdate: 1880
+    deathdate: 1952
+    gutenberg_agent_id: '25468'
+    url: http://www.gutenberg.org/2009/agents/25468
+creator:
+  authors:
+  - agent_name: Moffett, Cleveland
+    birthdate: 1863
+    deathdate: 1926
+    gutenberg_agent_id: '2850'
+    url: http://www.gutenberg.org/2009/agents/2850
+    wikipedia: https://en.wikipedia.org/wiki/Cleveland_Moffett
+  - agent_name: Herford, Oliver
+    alias: Herford, O. (Oliver)
+    birthdate: 1863
+    deathdate: 1935
+    gutenberg_agent_id: '24852'
+    url: http://www.gutenberg.org/2009/agents/24852
+    wikipedia: https://en.wikipedia.org/wiki/Oliver_Herford
+description: ''
+gutenberg_issued: '2024-04-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73472'
+language: en
+pgterms:marc905: 20240411151903moffett
+pgterms:marc906: '1912'
+pgterms:marc907: ca
+production_note: Al Haines
+publication_note: '  $aToronto :$bThe Copp Clark Co., Limited, $c1912, copyright 1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Theft -- Fiction'
+- !lcsh 'Thieves -- Fiction'
+- !lcsh 'England -- Social life and customs -- 20th century -- Fiction'
+- !lcsh 'Bishops -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Bishop's purse
+url: http://www.gutenberg.org/ebooks/73472
